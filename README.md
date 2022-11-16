@@ -13,4 +13,7 @@ npm install puppeteer
 node ./LichessOpener.js
 
 Watch the mighty puppeteer open Lichess for you and use this to open Lichess the "efficient way"
+
+# Puppeteer Guide
+https://pptr.dev/guides/chrome-extensions
  
